@@ -1065,10 +1065,10 @@
   version "4.2.2"
   resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
 
-ace-builds@^1.15.0:
-  version "1.15.0"
-  resolved "https://registry.yarnpkg.com/ace-builds/-/ace-builds-1.15.0.tgz#e4e5eee17a1d3d17fc92c1207bbc30f185f260cc"
-  integrity sha512-L1RXgqxDvzbJ7H8Y2v9lb4kHaZRn5JNTECG+oZTH2EDewMmpQMLDC4GnFKIh3+xb/gk2nVPO7gGwpTYPw91QzA==
+ace-builds@^1.23.3:
+  version "1.23.3"
+  resolved "https://registry.yarnpkg.com/ace-builds/-/ace-builds-1.23.3.tgz#0e9a18194b3e8a29a724ffa11900bf1fdc6fe8ef"
+  integrity sha512-TTWtmCQCaMZyTALMBDeQGu2VD9N6ijVZPYwz+CrpuS1XxYVdWPuvK+7b0ORVlIVXLJBnIf8D6dpP8iTO1elemA==
 
 acorn-import-assertions@^1.7.6:
   version "1.8.0"
